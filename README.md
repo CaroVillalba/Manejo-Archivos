@@ -15,7 +15,6 @@ Este proyecto implementa un sistema de gestión de archivos desarrollado en leng
 
 El repositorio incluye un archivo PDF con el **manual de usuario**, en el que se detallan:
 
-- Requisitos de compilación y ejecución
 - Instrucciones paso a paso para cada funcionalidad
 - Casos de uso con ejemplos
 - Solución de problemas comunes
