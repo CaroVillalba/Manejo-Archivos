@@ -21,8 +21,8 @@ El repositorio incluye un archivo PDF con el **manual de usuario**, en el que se
 - Solución de problemas comunes
 
 ---
-> Puedes encontrar el manual en la raíz del proyecto con el nombre:  
-📄 `Manual_de_Usuario.pdf`
+> Puedes encontrar el manual con el nombre:  
+📄 `Manual_de_usuario.pdf`
 
 ---
 
